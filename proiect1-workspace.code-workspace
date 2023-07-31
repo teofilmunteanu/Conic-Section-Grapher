@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../L4/Tema/program-Bezier"
+		},
+		{
+			"path": "../L4/Tema/operatori"
+		},
+		{
+			"path": "../L1+L2/program - L1 - ecuatii"
+		},
+		{
+			"path": "../L6/Tema-DesenareCercuri+threads (complete)"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../L5/program-Buffon"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "operatori"
+	}
+}
